@@ -1,0 +1,164 @@
+{
+	"info": {
+		"_postman_id": "b95bfd82-9939-4297-9e50-af29054b6a2e",
+		"name": "DAI TP 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?s=cars&apikey=a3fff023",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "s",
+							"value": "cars"
+						},
+						{
+							"key": "apikey",
+							"value": "a3fff023"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?t=monsters, inc.&apikey=a3fff023",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "t",
+							"value": "monsters, inc."
+						},
+						{
+							"key": "apikey",
+							"value": "a3fff023"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?t=rocky iv&apikey=a3fff023",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "t",
+							"value": "rocky iv"
+						},
+						{
+							"key": "apikey",
+							"value": "a3fff023"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?t=hunger&apikey=a3fff023",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "t",
+							"value": "hunger"
+						},
+						{
+							"key": "apikey",
+							"value": "a3fff023"
+						},
+						{
+							"key": "y",
+							"value": "-1",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.omdbapi.com/?i=tt0067992&apikey=a3fff023",
+					"protocol": "https",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "i",
+							"value": "tt0067992"
+						},
+						{
+							"key": "apikey",
+							"value": "a3fff023"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
