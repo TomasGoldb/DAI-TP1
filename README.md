@@ -1,6 +1,6 @@
-#TP 1 DAI 2025
+# TP 1 DAI 2025
 
-##Parte 1
+## Parte 1
 
 2) Hay 10 títulos que incluyen "cars"
 3) {
@@ -49,7 +49,7 @@
 
 6) titulo: Willy Wonka & the Chocolate Factory y se estreno en 1971
 
-##Parte 2
+## Parte 2
 
 1) {
     "abilities": [
